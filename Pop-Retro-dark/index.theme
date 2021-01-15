@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Pop-Retro-dark
+Type=X-GNOME-Metatheme
+Comment=The Pop-Retro-dark GTK Theme
+Encoding=UTF-8
+GtkTheme=Pop-Retro-dark
+IconTheme=Pop-Retro
+CursorTheme=Pop-Retro
+CursorSize=24
